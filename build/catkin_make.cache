@@ -1,0 +1,2 @@
+collision_avoidance
+-DCATKIN_DEVEL_PREFIX=/home/varungiridhar/2D_LiDAR/devel -DCMAKE_INSTALL_PREFIX=/home/varungiridhar/2D_LiDAR/install -G Unix Makefiles

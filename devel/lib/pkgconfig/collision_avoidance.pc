@@ -1,0 +1,8 @@
+prefix=/home/varungiridhar/2D_LiDAR/devel
+
+Name: collision_avoidance
+Description: Description of collision_avoidance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
